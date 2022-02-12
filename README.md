@@ -1,4 +1,4 @@
-# Zero-Board
+# Utility Board 1
 
 This board does nothing specifically.  It is designed to be a ready-at-hand circuit board that can be easily programmed to do many different jobs.
 
